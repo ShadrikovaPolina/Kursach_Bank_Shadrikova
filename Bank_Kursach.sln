@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank_Kursach", "Bank_Kursach\Bank_Kursach.csproj", "{CBF08039-7060-4EC8-AAEA-AD19637E4146}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankModel", "BankModel\BankModel.csproj", "{A188C13F-DADD-4E9E-8A4D-9D7F49413643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankService", "BankService\BankService.csproj", "{9DEC6E6F-2836-466A-8C03-E511CC24098B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBF08039-7060-4EC8-AAEA-AD19637E4146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBF08039-7060-4EC8-AAEA-AD19637E4146}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBF08039-7060-4EC8-AAEA-AD19637E4146}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBF08039-7060-4EC8-AAEA-AD19637E4146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A188C13F-DADD-4E9E-8A4D-9D7F49413643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A188C13F-DADD-4E9E-8A4D-9D7F49413643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A188C13F-DADD-4E9E-8A4D-9D7F49413643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A188C13F-DADD-4E9E-8A4D-9D7F49413643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
