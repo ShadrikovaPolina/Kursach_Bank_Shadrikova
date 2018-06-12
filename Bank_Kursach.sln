@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankModel", "BankModel\Bank
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankService", "BankService\BankService.csproj", "{9DEC6E6F-2836-466A-8C03-E511CC24098B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankRestApi", "BankRestApi\BankRestApi.csproj", "{8E698A55-670D-4320-952F-8BCBEA36117A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DEC6E6F-2836-466A-8C03-E511CC24098B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E698A55-670D-4320-952F-8BCBEA36117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E698A55-670D-4320-952F-8BCBEA36117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E698A55-670D-4320-952F-8BCBEA36117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E698A55-670D-4320-952F-8BCBEA36117A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
